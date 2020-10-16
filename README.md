@@ -4,6 +4,6 @@
 
 
 <img src="https://github.com/adevelopers/AviasalesConcept/blob/main/aviasales-concept.png" width="320" />
-<img src="flights.png" width="320" />
+<img src="flights.png" width="160" />
 
 
